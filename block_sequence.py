@@ -1,6 +1,8 @@
 '''
 Task:
 
+https://www.codewars.com/kata/5e1ab1b9fe268c0033680e5f
+
 Consider the following array:
 
 [1, 12, 123, 1234, 12345, 123456, 1234567, 12345678, 123456789, 12345678910, 1234567891011...]
